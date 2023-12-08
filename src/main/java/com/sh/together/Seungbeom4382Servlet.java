@@ -14,6 +14,7 @@ public class Seungbeom4382Servlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().print("seungbeom4382 🤩🤩🤩");
+        resp.getWriter().print("<br>내용 추가 ~~~ ~~~ ~~~ 😎😎😎");
     }
 }
 
