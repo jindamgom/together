@@ -7,6 +7,7 @@
     <title>Hello Web</title>
 </head>
 <body>
-<h1>together</h1>
+    <h1>together</h1>
+    <a href="${pageContext.request.contextPath}/Seungbeom4382">Seungbeom4382</a>
 </body>
 </html>
