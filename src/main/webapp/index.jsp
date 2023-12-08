@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>together</h1>
+<a href="${pageContext.request.contextPath}/jindamgom">고혜진 링크</a>
 </body>
 </html>
