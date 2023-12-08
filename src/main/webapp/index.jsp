@@ -17,6 +17,7 @@
     <%-- Seungbeom4382 start --%>
     <%-- Seungbeom4382 end --%>
     <%-- jindamgom start --%>
+    <script src="https://abcd.js"></script>
     <%-- jindamgom end --%>
     <%-- KimJeongHyo1 start --%>
     <%-- KimJeongHyo1 end --%>
