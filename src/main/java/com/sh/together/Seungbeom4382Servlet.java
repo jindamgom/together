@@ -17,4 +17,3 @@ public class Seungbeom4382Servlet extends HttpServlet {
         resp.getWriter().print("<br>내용 추가 ~~~ ~~~ ~~~ 😎😎😎");
     }
 }
-
