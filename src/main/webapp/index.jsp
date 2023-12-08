@@ -5,10 +5,26 @@
 <head>
     <meta charset="utf-8">
     <title>Hello Web</title>
+    <%-- css --%>
+    <%-- Seungbeom4382 start --%>
+    <%-- Seungbeom4382 end --%>
+    <%-- jindamgom start --%>
+    <%-- jindamgom end --%>
+    <%-- KimJeongHyo1 start --%>
+    <%-- KimJeongHyo1 end --%>
+
+    <%-- script --%>
+    <%-- Seungbeom4382 start --%>
+    <%-- Seungbeom4382 end --%>
+    <%-- jindamgom start --%>
+    <%-- jindamgom end --%>
+    <%-- KimJeongHyo1 start --%>
+    <%-- KimJeongHyo1 end --%>
 </head>
 <body>
-<h1>together</h1>
-<a href="${pageContext.request.contextPath}/Seungbeom4382">Seungbeom4382</a>
-<a href="${pageContext.request.contextPath}/jindamgom">고혜진 링크</a>
+    <h1>together</h1>
+        <a href="${pageContext.request.contextPath}/Seungbeom4382">Seungbeom4382</a>
+        <a href="${pageContext.request.contextPath}/jindamgom">고혜진 링크</a>
+        <a href="${pageContext.request.contextPath}/KimJeongHyo1">정효</a>
 </body>
 </html>
