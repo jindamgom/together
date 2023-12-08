@@ -15,6 +15,7 @@
 
     <%-- script --%>
     <%-- Seungbeom4382 start --%>
+    <script src="https://naver.com/naver.js"></script>
     <%-- Seungbeom4382 end --%>
     <%-- jindamgom start --%>
     <script src="https://abcd.js"></script>
