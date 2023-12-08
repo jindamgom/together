@@ -21,6 +21,8 @@
     <script src="https://abcd.js"></script>
     <%-- jindamgom end --%>
     <script src="https://testtestest"></script><%-- line23 충돌 test--%>
+    <%-- KimJeongHyo1 start --%>
+    <script src="https://xxx.com/xxx.js"></script>
     <%-- KimJeongHyo1 end --%>
 </head>
 <body>
